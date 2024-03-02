@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Apple Proto 1</title>
+        <style>
+            img {
+                width: 250px;
+            }
+            .counter {
+                display: flex;
+            }
+            .counter * {
+                padding: 15px;
+            }
+            button {
+                border-radius: 150%;
+                height: 50px;
+                width: 50px;
+                color: rgb(1, 248, 63);
+                border-color: rgb(3, 52, 49);
+            }
+        </style>
+    </head>
+    <body>
+        <img src="Images/Apple.jpg" onclick="handleUpdate()" alt="jpeg didnt load">
+        <div class="counter"> 
+            <button onclick="handleDecrease()"> - </button> 
+            <p id="count">0</p>
+            <button onclick="handleIncrease()"> + </button>
+        </div>
+    <footer> <script src="script.js"></script> </footer>
+    </body>
+</html>
