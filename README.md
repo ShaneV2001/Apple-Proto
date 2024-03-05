@@ -3,7 +3,7 @@
 Welcome to the README file for Apple Proto 1. This README provides an overview of the HTML and JavaScript files and their functionality.
 
 ## Overview
-Apple Proto 1 was my first HTML / CSS project used to display an image of an apple and allows users to increase or decrease a counter by clicking corresponding button.
+Apple Proto 1 was my first HTML / CSS and JavaScript project used to display an image of an apple and allows users to increase or decrease a counter by clicking corresponding button.
 The image also serves as a Update function that resets the counter to [0]. 
 
 ## File Structure
